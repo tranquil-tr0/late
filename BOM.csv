@@ -1,0 +1,26 @@
+Component,Qty,Price ($),Link,Item,Item Name,Alt Source Link,Alt Source 2,Note/Alt
+Motor,2,11.9,https://www.digikey.com/en/products/detail/dfrobot/FIT0492-B/7087168,DFRobot FIT0492-B,,,,
+Wheel Hub,1,12.95,https://www.digikey.com/en/products/detail/pololu/1083/10449878,Pololu 1083,Pololu Universal Aluminum Mounting Hub for 6mm Shaft #4-40 Holes (2-Pack),https://www.amazon.com/dp/B00B887FX8,,M3 Holes variant – Pololu 1999
+Wheels,1,7.75,https://www.digikey.com/en/products/detail/pololu/4925/11586957,Pololu 4925,Pololu Wheel for Standard Servo Splines (25T 5.8mm) - 70×8mm Black 2-Pack,https://www.pololu.com/product/4925,,
+Caster Wheel,1,7.99,https://www.amazon.com/gp/product/B0CWXMQ7MH/,2 Inch Castor Wheels Set of 4,,,,"Shepherd Regent Series 2"" Diameter TPR Wheel Swivel Caster - https://www.amazon.com/gp/product/B009PF7WFC"
+Buck Convertor,1,8.5,https://www.digikey.com/en/products/detail/dfrobot/DFR0884/14824983,DFRobot DFR0884,,,,As board module (maybe more complex?) – DFR1015 - https://www.digikey.com/en/products/detail/dfrobot/DFR1015/18069278
+Motor Driver,1,12.9,https://www.digikey.com/en/products/detail/dfrobot/DRI0002/6588473,DFRobot DRI0002,TB6612FNG Dual Motor Driver Carrier,,,NOTE: IC chip used - https://www.digikey.com/en/products/detail/stmicroelectronics/L298N/585918 - should I be avoiding the eval board | alternate consideration – https://www.digikey.com/en/products/detail/sparkfun-electronics/14450/7-15576
+Microcontroller,1,15,https://www.amazon.com/Espressif-ESP32-S3-DevKitC-1-N8R8-Development-Board/dp/B09MHP42LY,ESP32-S3-DevKitC-1-N8R8,,,,
+Ultrasonic Sensor,3,3.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/4007/9857020,Adafruit 4007,RCWL-1601,,,
+Battery,1,35.99,https://www.amazon.com/TalentCell-LiFePO4-Battery-Rechargeable-Phosphate/dp/B0DSW2S7YH?s=electronics,TalentCell 12V 6Ah LiFePO4 Battery Pack,,,,
+Switch,1,2.15,https://www.digikey.com/en/products/detail/bulgin/C1500BLAAA/9598386,C1500BLAAA,Rocker Switch SPST 16A (AC) 250 V Panel Mount Snap-In,,,a round one - https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/471002268142/9950821
+usb to terminal ,1,4.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/3628/7931507,Adafruit 3628,,,,"Or use usb a to cable - https://www.digikey.com/en/products/detail/qualtek/3021005-03/1531290 $1.69 | Both ONLY if using DF0884 buck convertor enclosed, not if using DFR1015"
+perfboards?,1,8.99,https://www.amazon.com/QSYZAIL-Perfboard-Compatible-Soldering-Protoboard/dp/B0G4QTPVZ8,54 Pcs Double Sided PCB Perf Board Kit in 5 Sizes,,,,
+Total,,$152.82,,,,,,
+,,,,,,,,
+,,,,,,,,
+usb a to micro cable,1,mine,,,,,,
+laptop motherboard,1,mine,,,,,,
+usb stick,1,mine,,,,,,
+usb webcam,1,mine,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+female spade connector 0.25”,,,,,,,,
+22 awg solid core,,,,,,,,
+18 awg stranded,,,,,,,,
